@@ -1,0 +1,10 @@
+# Social media links and profiles, used by the jekyll-socials plugin.
+# Reference: https://github.com/george-gca/jekyll-socials
+
+cv_pdf: /assets/pdf/cv.pdf # TODO: upload your CV PDF to assets/pdf/cv.pdf
+email: pritwish@chalmers.se
+orcid_id: 0009-0001-4796-4857
+scholar_userid: rninKe0AAAAJ # Google Scholar
+github_username: pritwish1101
+linkedin_username: pritwish # TODO: confirm your actual LinkedIn username
+rss_icon: true

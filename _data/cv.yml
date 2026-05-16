@@ -1,0 +1,156 @@
+cv:
+  name: Pritwish Agarwal
+  label: PhD researcher in cold atoms and nanocavity QED
+  email: pritwish@chalmers.se
+  location: Gothenburg, Sweden
+  image: ""
+  summary: PhD researcher at the Hybrid Quantum Systems Laboratory, Chalmers University of Technology — the first strontium-atom experiment in Sweden. Building a hybrid platform that couples a single Sr-88 atom in an optical tweezer to a Si₃N₄ photonic-crystal defect cavity at 689 nm, with the aim of mediating coherent atom-phonon interactions for macroscopic quantum state generation.
+
+  social_networks:
+    - network: GitHub
+      username: pritwish1101
+    - network: LinkedIn
+      username: pritwish # TODO: confirm
+
+  sections:
+    Education:
+      - institution: Chalmers University of Technology
+        location: Gothenburg, Sweden
+        url: https://www.chalmers.se
+        area: Physics
+        studyType: PhD
+        start_date: 2024
+        end_date: present
+        highlights:
+          - "Hybrid Quantum Systems Laboratory, Quantum Technology Division, Department of Microtechnology and Nanoscience (MC2)."
+          - "Supervisor: Prof. Nils J. Engelsen."
+          - "Thesis (provisional): Single Strontium-88 Atoms Coupled to Nanophotonic Cavities."
+
+      - institution: Indian Institute of Technology Delhi
+        location: New Delhi, India
+        url: https://home.iitd.ac.in/
+        area: Physics
+        studyType: M.Sc.
+        start_date: 2022
+        end_date: 2024
+        highlights:
+          - "Graduated summa cum laude, departmental topper."
+          - "Master's thesis: Field Theory on Branching Lattices (Advisor: Prof. Sarthak Parikh)."
+
+      - institution: University of Delhi
+        location: New Delhi, India
+        url: https://www.du.ac.in/
+        area: Physics
+        studyType: B.Sc. (Honours)
+        start_date: 2019
+        end_date: 2022
+        highlights:
+          - "Undergraduate thesis: Performance Analysis of Self-Sustained Solar Distillation Systems (Advisor: Dr. Lovedeep Sahota)."
+          # TODO: add specific constituent college (Hindu / Hansraj / St. Stephen's / etc.)
+
+    Experience:
+      - company: Hybrid Quantum Systems Lab, Chalmers University of Technology
+        position: Doctoral Researcher
+        location: Gothenburg, Sweden
+        start_date: 2024
+        end_date: present
+        summary: Building a Sr-88 / nanophotonic cavity / nanomechanical resonator hybrid quantum system from scratch.
+        highlights:
+          - UHV chamber design (SolidWorks, ~290-body assembly).
+          - Laser cooling and trapping; PDH locks; custom diode laser assembly.
+          - FPGA control on Red Pitaya (PyRPL-based PID, band-pass filters).
+          - Custom water-cooled Helmholtz coil engineering with external vendors.
+          - Cleanroom nanofabrication of photonic-crystal defect cavities.
+
+      - company: Prof. Sarthak Parikh's group, IIT Delhi
+        position: Research Fellow
+        location: New Delhi, India
+        start_date: 2024
+        end_date: 2024
+        summary: Probing quantum gravity and holography through quantum discretization — continuation of master's thesis work.
+
+      - company: Prof. Sarthak Parikh's group, IIT Delhi
+        position: Master's Research Student
+        location: New Delhi, India
+        start_date: 2023
+        end_date: 2024
+        summary: Field theory on branching lattices — new method for computing propagators in discrete spaces, with extensions to AdS geometries.
+
+      - company: Prof. Debasish Das's group, Saha Institute of Nuclear Physics
+        position: Summer Research Intern
+        location: Kolkata, India
+        start_date: 2023
+        end_date: 2023
+        summary: Relativistic heavy-ion collisions and Glauber modelling at TeV energies.
+
+      - company: Dr. Lovedeep Sahota's group, University of Delhi
+        position: Undergraduate Researcher
+        location: New Delhi, India
+        start_date: 2021
+        end_date: 2022
+        summary: Thermal modelling of solar distillation systems enhanced with carbon quantum dot, MWCNT, and SWCNT nanoparticles.
+        highlights:
+          - Resulted in a peer-reviewed publication (ASME J. Solar Energy Engineering, 2024).
+
+    Awards:
+      - title: M.Sc. Physics Departmental Topper
+        date: 2024
+        awarder: IIT Delhi
+      - title: All-India Rank 17 in JEST (Joint Entrance Screening Test) for PhD admission
+        date: 2024
+        summary: Out of more than 6,000 candidates.
+      - title: LinkedIn Postgraduate Prize for Academics  # TODO: verify exact name
+        date: 2024
+      - title: Vidya Bhushan Anand Memorial Scholarship for Academic Excellence
+        date: 2023
+      - title: All-India Rank 17 in CSIR-UGC NET (Physics)
+        date: 2023
+        summary: For PhD and Lectureship, out of more than 30,000 candidates.
+      - title: All-India Rank 30 in GATE (Physics)
+        date: 2023
+        summary: Out of more than 15,000 candidates.
+      - title: National Topper, National Postgraduate Physics Examination
+        date: 2022
+        summary: Out of more than 5,000 candidates.
+      - title: All-India Rank 17 in IIT-JAM (Physics)
+        date: 2022
+        summary: Out of more than 13,000 candidates.
+
+    Volunteer:
+      - company: Uppsala University
+        position: Member, PhD Education Evaluation Committee
+        location: Uppsala, Sweden
+        start_date: 2025
+        end_date: 2025
+        summary: Conducted interviews with students, supervisors, and programme staff; co-authored evaluation report.
+
+    Publications:
+      - title: "Economic and Performance Analysis of Modified Solar Distillation System Coupling Different Integrations Using Carbon Quantum Dot Nanoparticles: Generalized Thermal Model"
+        authors:
+          - Sourav Das
+          - Pritwish Agarwal
+          - Lovedeep Sahota
+          - Yogesh K. Meena
+          - Mahesh Singh
+          - Balwinder S. Gill
+        publisher: ASME Journal of Solar Energy Engineering
+        releaseDate: 2024
+        url: https://doi.org/10.1115/1.4064774
+
+    Skills:
+      - name: Experimental physics
+        keywords: "Laser cooling and trapping (Sr-88); UHV systems; optical setup; PDH locks; cleanroom nanofabrication; cryogenic apparatus"
+      - name: Hardware & electronics
+        keywords: "FPGA on Red Pitaya (PyRPL); Arduino; custom Helmholtz coil engineering"
+      - name: CAD & simulation
+        keywords: "SolidWorks; COMSOL Multiphysics"
+      - name: Programming
+        keywords: "Python (NumPy, SciPy); MATLAB (OOP); C++ (Eigen); LaTeX; Git; Obsidian"
+
+    Languages:
+      - name: English
+        summary: Fluent
+      - name: Hindi
+        summary: Native
+      - name: Bengali
+        summary: Native
