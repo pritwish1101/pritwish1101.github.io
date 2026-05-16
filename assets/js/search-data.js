@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "My CV. Download as PDF.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-publications",
           title: "publications",
           description: "Publications, talks, and posters. See also my Google Scholar and ORCID profiles.",
