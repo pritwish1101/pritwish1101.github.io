@@ -152,5 +152,4 @@ cv:
         summary: Fluent
       - name: Hindi
         summary: Native
-      - name: Bengali
-        summary: Native
+
