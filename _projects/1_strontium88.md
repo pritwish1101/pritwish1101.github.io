@@ -1,7 +1,7 @@
 ---
 layout: page
 title: strontium88 Python library
-description: Atomic-properties calculator for Sr-88 — transitions, branching ratios, decay rates.
+description: Atomic-properties calculator for Sr-88 — transitions, bra6nching ratios, decay rates.
 img: assets/img/projects/strontium88.jpg
 importance: 1
 category: phd
