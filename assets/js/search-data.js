@@ -140,7 +140,7 @@ ninja.data = [{
               window.location.href = "/projects/11_is_air_ideal/";
             },},{id: "projects-strontium88-python-library",
           title: 'strontium88 Python library',
-          description: "Atomic-properties calculator for Sr-88 — transitions, branching ratios, decay rates.",
+          description: "Atomic-properties calculator for Sr-88 — transitions, bra6nching ratios, decay rates.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_strontium88/";
             },},{id: "projects-uhv-chamber-design-solidworks",
