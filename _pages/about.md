@@ -6,7 +6,7 @@ subtitle: PhD researcher in cold atoms and nanocavity QED · <a href="https://ww
 
 profile:
   align: right
-  image: prof_pic.jpg  # TODO: upload your headshot to assets/img/prof_pic.jpeg
+  image: prof_pic.jpg  # TODO: upload your headshot to assets/img/prof_pic.jpg
   image_circular: false
   more_info: >
     <p>Office B511, Plan 5</p>
