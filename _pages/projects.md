@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Side projects spanning instrumentation, simulation, and theory. Most have code on GitHub.
+description: Side projects spanning instrumentation, simulation, and theory.
 nav: true
 nav_order: 5
 display_categories: [phd, instrumentation, theory, undergrad]
