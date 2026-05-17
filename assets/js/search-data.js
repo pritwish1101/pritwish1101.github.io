@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Side projects spanning instrumentation, simulation, and theory. Most have code on GitHub.",
+          description: "Side projects spanning instrumentation, simulation, and theory.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
