@@ -35,4 +35,4 @@ The project is funded by the ERC Consolidator Grant [SEQUENCE](https://cordis.eu
 
 Before Chalmers, I did my master's at IIT Delhi in theoretical high-energy physics — discrete field theories on branching lattices with Prof. Sarthak Parikh — and an undergraduate degree in physics at the University of Delhi. I'm interested in industry roles in experimental cavity QED, quantum optomechanics, and precision instrumentation after the PhD.
 
-You can reach me at [pritwish@chalmers.se](mailto:pritwish@chalmers.se) (work) or [pritwish@zohomail.eu](mailto:pritwish@zohomail.eu) (personal).
+You can reach me at [pritwish@chalmers.se](mailto:pritwish@chalmers.se) (work) or [pritwish1101@gmail.com](mailto:pritwish1101@gmail.com) (personal).
